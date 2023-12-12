@@ -4,7 +4,7 @@ import { useLoaderData } from 'react-router-dom'
 
 
 const hiteeshGitUrl = 'https://api.github.com/users/hiteshchoudhary'
-// const rajGitUrl = 'https://api.github.com/users/rraj0811'
+const rajGitUrl = 'https://api.github.com/users/rraj0811'
 const pabbojiGitUrl = 'https://api.github.com/users/pabbojivamshi'
 
 function Github() {
