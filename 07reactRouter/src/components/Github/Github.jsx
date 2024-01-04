@@ -29,7 +29,7 @@ function Github() {
 export default Github
 
 export const githubInfoLoader = async () => {
-   const response = await fetch(hiteeshGitUrl)
+   const response = await fetch(rajGitUrl)
    return response.json()
     
 }
